@@ -11,3 +11,7 @@ __pycache__
 __pycache__/*
 demo.parquet
 lbn.parquet
+q1_data.parquet
+q1_partitioned/
+lbn-data/
+tmp_part/
